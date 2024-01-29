@@ -1,2 +1,3 @@
 # Data-Governance-at-SneakerPark
-Data Governance at SneakerPark
+ 
+Udacity Data Architect Nanodegree Data Governance
